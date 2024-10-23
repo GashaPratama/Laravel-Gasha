@@ -13,3 +13,6 @@ Route::get('/index', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+
+
